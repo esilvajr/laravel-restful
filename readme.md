@@ -6,4 +6,4 @@
 Scripts utilizados academicamente para treinamentos e mini-cursos.
 
 ### Apresentação com teoria e exercicios.
-https://docs.google.com/presentation/d/1G2mSdYM9QbNEjhokylXzwzFmCLjA4cBtea2JP0qpsHc/edit?usp=sharing
+https://docs.google.com/presentation/d/1cCQAq4CoEglc8YvOK2ORg2XCOVeNtD1_D8dneuCya1Y/edit?usp=sharing
