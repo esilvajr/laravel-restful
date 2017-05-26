@@ -19,4 +19,5 @@ Route::get('/user', function (Request $request) {
 
 Route::group(['prefix' => 'v1'], function(){
     Route::resource('products', '\App\Http\Controllers\Api\V1\ProductsController');
+    Route::resource('orders', '\App\Http\Controllers\Api\V1\OrdersController');
 });
