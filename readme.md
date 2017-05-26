@@ -7,3 +7,10 @@ Scripts utilizados academicamente para treinamentos e mini-cursos.
 
 ### Apresentação com teoria e exercicios.
 https://docs.google.com/presentation/d/1cCQAq4CoEglc8YvOK2ORg2XCOVeNtD1_D8dneuCya1Y/edit?usp=sharing
+
+
+### Dúvidas?
+
+edison.junior@s2it.com.br
+
+gabriel.pomin@s2it.com.br
